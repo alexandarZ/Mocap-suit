@@ -1,0 +1,6 @@
+@ tinkerguy.eu
+
+Unzip libraries to \Arduino\libraries\ folder.
+Restart Arduino software.
+
+http://arduino.cc/en/guide/libraries
